@@ -4,10 +4,7 @@ This notebook used different machine learning models to predict the people most 
 
 This project was evaluated by the 'Classification accuracy score'.
 
-![Descrição da Imagem](nome_do_arquivo_da_imagem.png)
-
-
----
+![Presenting the Ptoject](Photos_1.png)
 
 ## Requirements and Environment
 
