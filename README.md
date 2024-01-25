@@ -1,6 +1,6 @@
 # Financial Inclusion In Africa
 
-This notebook used different machine learning models to predict the people most likely to have or use a bank account, based on 4 African countries: Kenya, Rwanda, Tanzania and Uganda.
+This python code, in a Jupyter Notebook file, used differents machine learning models to predict the people most likely to have or use a bank account, based on 4 African countries: Kenya, Rwanda, Tanzania and Uganda.
 
 This project was evaluated by the 'Classification accuracy score'.
 
